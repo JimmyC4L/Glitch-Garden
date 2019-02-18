@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1259626-be4b-4ab6-aee4-ce58c52f03eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Glitch Garden/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b1259626-be4b-4ab6-aee4-ce58c52f03eb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,12 +113,20 @@
       <updated>1550458345451</updated>
       <workItem from="1550458359843" duration="106000" />
       <workItem from="1550458912855" duration="33000" />
-      <workItem from="1550458979149" duration="1094000" />
+      <workItem from="1550458979149" duration="2146000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1550460145082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550460145082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1233000" />
+    <option name="totallyTimeSpent" value="2285000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -199,6 +205,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/Glitch-Garden" />
     </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
