@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1259626-be4b-4ab6-aee4-ce58c52f03eb" name="Default Changelist" comment="" />
+    <list default="true" id="b1259626-be4b-4ab6-aee4-ce58c52f03eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Lizard.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Lizard.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/trophy cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/trophy cut.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/trophy whole.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/trophy whole.png.meta" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -28,24 +35,60 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Attacker.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <marker date="1550540003350" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550540003350" expanded="true" signature="117:367" ph="{...}" />
+                <marker date="1550540003350" expanded="true" signature="233:240" ph="{...}" />
+                <marker date="1550540003350" expanded="true" signature="295:365" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding>
+                <marker date="1550540710046" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550540710046" expanded="true" signature="124:668" ph="{...}" />
+                <marker date="1550540710046" expanded="true" signature="366:496" ph="{...}" />
+                <marker date="1550540710046" expanded="true" signature="385:493" ph="{...}" />
+                <marker date="1550540710046" expanded="true" signature="527:604" ph="{...}" />
+                <marker date="1550540710046" expanded="true" signature="659:666" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Attacker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1273" />
-    <option name="width" value="1294" />
+    <option name="x" value="1341" />
+    <option name="width" value="1226" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -113,7 +156,7 @@
       <updated>1550458345451</updated>
       <workItem from="1550458359843" duration="106000" />
       <workItem from="1550458912855" duration="33000" />
-      <workItem from="1550458979149" duration="2146000" />
+      <workItem from="1550458979149" duration="4542000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1550460145082</created>
@@ -126,7 +169,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2285000" />
+    <option name="totallyTimeSpent" value="4681000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -138,9 +181,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1294" height="1047" extended-state="0" />
+    <frame x="1341" y="0" width="1226" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25769854" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27272728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -219,6 +262,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Animations/Lizard.controller">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -231,6 +277,34 @@
             <marker date="1550459347817" expanded="true" signature="465:537" ph="{...}" />
             <marker date="1550459347817" expanded="true" signature="567:623" ph="{...}" />
             <marker date="1550459347817" expanded="true" signature="678:685" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Attacker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <marker date="1550540003350" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550540003350" expanded="true" signature="117:367" ph="{...}" />
+            <marker date="1550540003350" expanded="true" signature="233:240" ph="{...}" />
+            <marker date="1550540003350" expanded="true" signature="295:365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1550540710046" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550540710046" expanded="true" signature="124:668" ph="{...}" />
+            <marker date="1550540710046" expanded="true" signature="366:496" ph="{...}" />
+            <marker date="1550540710046" expanded="true" signature="385:493" ph="{...}" />
+            <marker date="1550540710046" expanded="true" signature="527:604" ph="{...}" />
+            <marker date="1550540710046" expanded="true" signature="659:666" ph="{...}" />
           </folding>
         </state>
       </provider>
