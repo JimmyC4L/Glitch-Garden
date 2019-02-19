@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1259626-be4b-4ab6-aee4-ce58c52f03eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Jabba Walk.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Jabba Walk.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Jabba.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Jabba.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Lizard Jump.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Lizard Jump.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Lizard Walk.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Lizard Walk.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Lizard.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Lizard.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Tropy Bounce.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Tropy Bounce.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Tropy.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Tropy.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cactus Idle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cactus Idle.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cactus Looping.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cactus Looping.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Zucchini.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Zucchini.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard Jump.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard Jump.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard Walk.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard Walk.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus Attack.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus Attack.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus Idle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Tropy Bounce.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Tropy Bounce.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Tropy.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Tropy.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Lizard.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Lizard.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Zucchini.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Zucchini.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Shooter.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <marker date="1550543194515" expanded="false" signature="6:78" ph="..." />
                 <marker date="1550543194515" expanded="true" signature="116:306" ph="{...}" />
@@ -78,15 +68,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="345">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
-                <marker date="1550543598481" expanded="false" signature="6:97" ph="..." />
-                <marker date="1550543598481" expanded="true" signature="138:280" ph="{...}" />
-                <marker date="1550543598481" expanded="true" signature="210:278" ph="{...}" />
+                <marker date="1550544781890" expanded="false" signature="6:97" ph="..." />
+                <marker date="1550544781890" expanded="true" signature="138:595" ph="{...}" />
+                <marker date="1550544781890" expanded="true" signature="256:324" ph="{...}" />
+                <marker date="1550544781890" expanded="true" signature="384:593" ph="{...}" />
+                <marker date="1550544781890" expanded="true" signature="528:590" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <marker date="1550545473354" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550545473354" expanded="true" signature="115:536" ph="{...}" />
+                <marker date="1550545473354" expanded="true" signature="251:350" ph="{...}" />
+                <marker date="1550545473354" expanded="true" signature="293:347" ph="{...}" />
+                <marker date="1550545473354" expanded="true" signature="383:534" ph="{...}" />
+                <marker date="1550545473354" expanded="true" signature="403:422" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -118,6 +127,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Attacker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -129,6 +139,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Shooter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
       </list>
     </option>
   </component>
@@ -202,7 +213,7 @@
       <updated>1550458345451</updated>
       <workItem from="1550458359843" duration="106000" />
       <workItem from="1550458912855" duration="33000" />
-      <workItem from="1550458979149" duration="6535000" />
+      <workItem from="1550458979149" duration="8547000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1550460145082</created>
@@ -215,7 +226,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6674000" />
+    <option name="totallyTimeSpent" value="8686000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -359,7 +370,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Shooter.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <marker date="1550543194515" expanded="false" signature="6:78" ph="..." />
             <marker date="1550543194515" expanded="true" signature="116:306" ph="{...}" />
@@ -370,12 +381,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="345">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <marker date="1550543598481" expanded="false" signature="6:97" ph="..." />
-            <marker date="1550543598481" expanded="true" signature="138:280" ph="{...}" />
-            <marker date="1550543598481" expanded="true" signature="210:278" ph="{...}" />
+            <marker date="1550544781890" expanded="false" signature="6:97" ph="..." />
+            <marker date="1550544781890" expanded="true" signature="138:595" ph="{...}" />
+            <marker date="1550544781890" expanded="true" signature="256:324" ph="{...}" />
+            <marker date="1550544781890" expanded="true" signature="384:593" ph="{...}" />
+            <marker date="1550544781890" expanded="true" signature="528:590" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1550545473354" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550545473354" expanded="true" signature="115:536" ph="{...}" />
+            <marker date="1550545473354" expanded="true" signature="251:350" ph="{...}" />
+            <marker date="1550545473354" expanded="true" signature="293:347" ph="{...}" />
+            <marker date="1550545473354" expanded="true" signature="383:534" ph="{...}" />
+            <marker date="1550545473354" expanded="true" signature="403:422" ph="{...}" />
           </folding>
         </state>
       </provider>

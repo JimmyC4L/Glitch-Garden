@@ -21,6 +21,8 @@ GameObject:
   - component: {fileID: 4228871275948182}
   - component: {fileID: 212508844665702658}
   - component: {fileID: 114279250208423664}
+  - component: {fileID: 68270149306222230}
+  - component: {fileID: 50745494210611584}
   m_Layer: 0
   m_Name: Zucchini
   m_TagString: Untagged
@@ -41,6 +43,52 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &50745494210611584
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1277482239894216}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!68 &68270149306222230
+EdgeCollider2D:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1277482239894216}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: 0.19593477, y: -0.2767067}
+  - {x: 0.074392796, y: -0.05676937}
+  - {x: -0.18009448, y: 0.11549044}
+  - {x: -0.25775194, y: 0.14279985}
+  - {x: -0.27023435, y: 0.21463442}
+  - {x: -0.22660303, y: 0.2572093}
+  - {x: -0.13520265, y: 0.27045012}
+  - {x: 0.10478544, y: 0.1071291}
+  - {x: 0.25855923, y: -0.14033604}
+  - {x: 0.27674603, y: -0.25014353}
+  - {x: 0.20805645, y: -0.28777456}
 --- !u!114 &114279250208423664
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -52,7 +100,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bbddcb19e42def489c44eff51e39924, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
+  speed: 2
+  damage: 50
 --- !u!212 &212508844665702658
 SpriteRenderer:
   m_ObjectHideFlags: 1
