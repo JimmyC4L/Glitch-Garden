@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1259626-be4b-4ab6-aee4-ce58c52f03eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Lizard.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Lizard.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/trophy cut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/trophy cut.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/trophy whole.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/trophy whole.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,22 +30,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Attacker.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="225">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <marker date="1550540003350" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550540003350" expanded="true" signature="117:367" ph="{...}" />
-                <marker date="1550540003350" expanded="true" signature="233:240" ph="{...}" />
-                <marker date="1550540003350" expanded="true" signature="295:365" ph="{...}" />
+                <marker date="1550541288904" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550541288904" expanded="true" signature="117:375" ph="{...}" />
+                <marker date="1550541288904" expanded="true" signature="224:298" ph="{...}" />
+                <marker date="1550541288904" expanded="true" signature="342:373" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="183">
@@ -81,8 +76,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Attacker.cs" />
       </list>
     </option>
   </component>
@@ -156,7 +151,7 @@
       <updated>1550458345451</updated>
       <workItem from="1550458359843" duration="106000" />
       <workItem from="1550458912855" duration="33000" />
-      <workItem from="1550458979149" duration="4542000" />
+      <workItem from="1550458979149" duration="5151000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1550460145082</created>
@@ -169,7 +164,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4681000" />
+    <option name="totallyTimeSpent" value="5290000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,6 +177,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1341" y="0" width="1226" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27272728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -281,19 +277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Attacker.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <marker date="1550540003350" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550540003350" expanded="true" signature="117:367" ph="{...}" />
-            <marker date="1550540003350" expanded="true" signature="233:240" ph="{...}" />
-            <marker date="1550540003350" expanded="true" signature="295:365" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackerSpawner.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -305,6 +288,19 @@
             <marker date="1550540710046" expanded="true" signature="385:493" ph="{...}" />
             <marker date="1550540710046" expanded="true" signature="527:604" ph="{...}" />
             <marker date="1550540710046" expanded="true" signature="659:666" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Attacker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1550541288904" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550541288904" expanded="true" signature="117:375" ph="{...}" />
+            <marker date="1550541288904" expanded="true" signature="224:298" ph="{...}" />
+            <marker date="1550541288904" expanded="true" signature="342:373" ph="{...}" />
           </folding>
         </state>
       </provider>
