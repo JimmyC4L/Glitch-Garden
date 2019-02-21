@@ -34,6 +34,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4921433066180408}
+  - component: {fileID: 114558374699784338}
+  - component: {fileID: 95341843886652096}
+  - component: {fileID: 114092757011033666}
   m_Layer: 0
   m_Name: Cactus
   m_TagString: Untagged
@@ -49,9 +52,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4260069687399958}
-  - component: {fileID: 95419761392500006}
   - component: {fileID: 212679498763860722}
-  - component: {fileID: 114224682190922342}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -100,16 +101,16 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &95419761392500006
+--- !u!95 &95341843886652096
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1999910394036468}
+  m_GameObject: {fileID: 1688598030023602}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 0b8b0a99f69029e489575c9387d2b281, type: 2}
+  m_Controller: {fileID: 9100000, guid: fd662868fe826704db784a4bf59b81b6, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -118,12 +119,12 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &114224682190922342
+--- !u!114 &114092757011033666
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1999910394036468}
+  m_GameObject: {fileID: 1688598030023602}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dd89e12e1d7688a46a9d87ac0cc5301a, type: 3}
@@ -131,6 +132,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 1277482239894216, guid: f62b186a01f44374cb806b03c1e81d24, type: 2}
   gun: {fileID: 1317267536267734}
+--- !u!114 &114558374699784338
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1688598030023602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2226e494e5e11947ab06066b5a459d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  starCost: 100
 --- !u!212 &212679498763860722
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -5,18 +5,24 @@ using UnityEngine;
 public class DefenderSpawner : MonoBehaviour
 {
 
-	[SerializeField] private GameObject defender;
+	private Defender _defender;
 
-	private void SpawnDefender(Vector2 gridPosition)
-	{
-		var newDefender = Instantiate(defender, gridPosition, Quaternion.identity);
-	}
-
+	
 	private void OnMouseDown()
 	{
 		SpawnDefender(GetSquareClicked());
 	}
+	
+	private void SpawnDefender(Vector2 gridPosition)
+	{
+		var newDefender = Instantiate(_defender, gridPosition, Quaternion.identity);
+	}
 
+	public void SetSelectedDefender(Defender selectedDefender)
+	{
+		_defender = selectedDefender;
+	}
+	
 	private Vector2 GetSquareClicked()
 	{
 		var clickPosition = new Vector2(Input.mousePosition.x, Input.mousePosition.y);
