@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1259626-be4b-4ab6-aee4-ce58c52f03eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard Jump.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard Jump.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard Walk.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard Walk.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Attackers/Lizard.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus Attack.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus Attack.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus Idle.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus Idle.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Cactus.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Deffenders/Tropy Bounce.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Deffenders/Tropy Bounce.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cactus.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cactus.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Lizard.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Lizard.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Trophy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Trophy.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DefenderSpawner.cs" afterDir="false" />
-    </list>
+    <list default="true" id="b1259626-be4b-4ab6-aee4-ce58c52f03eb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +124,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -157,10 +139,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/StarDisplay.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
+            <state relative-caret-position="393">
               <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding>
                 <marker date="1550718534510" expanded="false" signature="6:78" ph="..." />
@@ -292,7 +274,7 @@
       <updated>1550458345451</updated>
       <workItem from="1550458359843" duration="106000" />
       <workItem from="1550458912855" duration="33000" />
-      <workItem from="1550458979149" duration="13638000" />
+      <workItem from="1550458979149" duration="13646000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1550460145082</created>
@@ -305,7 +287,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13777000" />
+    <option name="totallyTimeSpent" value="13785000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -523,22 +505,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <marker date="1550717022628" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550717022628" expanded="true" signature="123:579" ph="{...}" />
-            <marker date="1550717022628" expanded="true" signature="210:577" ph="{...}" />
-            <marker date="1550717022628" expanded="true" signature="316:421" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/StarDisplay.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
+        <state relative-caret-position="393">
           <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
           <folding>
             <marker date="1550718534510" expanded="false" signature="6:78" ph="..." />
@@ -548,6 +517,19 @@
             <marker date="1550718534510" expanded="true" signature="406:449" ph="{...}" />
             <marker date="1550718534510" expanded="true" signature="487:562" ph="{...}" />
             <marker date="1550718534510" expanded="true" signature="512:559" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DefenderButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1550717022628" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550717022628" expanded="true" signature="123:579" ph="{...}" />
+            <marker date="1550717022628" expanded="true" signature="210:577" ph="{...}" />
+            <marker date="1550717022628" expanded="true" signature="316:421" ph="{...}" />
           </folding>
         </state>
       </provider>
