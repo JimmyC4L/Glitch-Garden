@@ -35,4 +35,9 @@ public class StarDisplay : MonoBehaviour
 			UpdateDisplay();
 		}
 	}
+
+	public bool HaveEnoughStarts(int amount)
+	{
+		return star >= amount;
+	}
 }
